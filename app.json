@@ -16,7 +16,7 @@
     "SESSION_ID": {
       "description": "your session id",
       "required": true,
-      "value": ""
+      "value": "GuruBot~ADxZGS7X"
     },
     "MODE": {
       "description": "mode public or private",
@@ -26,7 +26,7 @@
     "PREFIX": {
       "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
       "required": false,
-      "value": "*"
+      "value": ">"
     },
      "HKEY": {
       "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
